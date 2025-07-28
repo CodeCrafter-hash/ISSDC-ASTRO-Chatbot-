@@ -1,0 +1,43 @@
+[
+  {
+    "mission": "Aditya-L1",
+    "details": "Aditya‑L1 is India's first solar mission, launched on 2 September 2023 aboard PSLV‑C57. It reached the Sun‑Earth L1 point on 6 January 2024 and carries seven payloads—including SUIT, VELC, MAG—to study the solar corona, chromosphere, solar wind, and magnetic fields."
+  },
+  {
+    "mission": "Chandrayaan-3",
+    "details": "Chandrayaan‑3 is India's successful lunar landing mission. Launched on 14 July 2023 via LVM3‑M4, it soft‑landed near the lunar south pole (Shiv Shakti point) on 23 August 2023. The lander Vikram and rover Pragyan conducted scientific experiments for two weeks, studying lunar soil composition and surface properties."
+  },
+  {
+    "mission": "Chandrayaan-4",
+    "details": "Chandrayaan‑4 is a planned lunar sample‑return mission expected to launch in 2027 using two LVM3 rockets. The mission aims to collect 2–3 kg of lunar regolith from near the south pole and return it to Earth, advancing India's lunar exploration capabilities."
+  },
+  {
+    "mission": "Chandrayaan-2",
+    "details": "Chandrayaan‑2 launched on 22 July 2019 with an orbiter, lander (Vikram), and rover (Pragyan). The orbiter continues to study the Moon from orbit. Although the lander crashed, the mission provided key insights into lunar topography, exosphere, and mineral composition."
+  },
+  {
+    "mission": "Chandrayaan-1",
+    "details": "Chandrayaan‑1 was India's first lunar mission, launched on 22 October 2008. It made a major discovery by confirming the presence of water molecules on the Moon. The orbiter carried 11 payloads, including international instruments from NASA and ESA."
+  },
+  {
+    "mission": "Mars Orbiter Mission (Mangalyaan)",
+    "details": "Launched on 5 November 2013, Mangalyaan made India the first Asian country to reach Mars orbit and the first in the world to do so on its first attempt. It studied Martian surface features, morphology, atmosphere, and methane levels."
+  },
+  {
+    "mission": "Gaganyaan",
+    "details": "Gaganyaan is India’s upcoming human spaceflight mission. It aims to send a crew of three astronauts to Low Earth Orbit for three days. The mission will use a modified GSLV Mk III and includes multiple unmanned test flights before launch."
+  },
+  {
+    "mission": "RISAT-2B",
+    "details": "RISAT-2B is a radar imaging satellite launched by ISRO on 22 May 2019 using PSLV-C46. It provides all-weather, day-and-night Earth observation for agriculture, forestry, soil moisture, and disaster management support."
+  },
+  {
+    "mission": "Cartosat-3",
+    "details": "Cartosat‑3 is an advanced Earth observation satellite launched on 27 November 2019. It has a resolution of 0.25 meters and is used for urban planning, infrastructure monitoring, and border surveillance."
+  },
+  {
+    "mission": "AstroSat",
+    "details": "Launched on 28 September 2015, AstroSat is India’s first dedicated multi-wavelength space observatory. It studies celestial sources in visible, UV, and X-ray wavelengths and is used for exploring high-energy astrophysical phenomena."
+  }
+]
+
